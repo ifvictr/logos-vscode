@@ -68,18 +68,6 @@
 	],
 	"surroundingPairs": [
 		[
-			"%hook",
-			"%end"
-		],
-		[
-			"%hookf",
-			"%end"
-		],
-		[
-			"%group",
-			"%end"
-		],
-		[
 			"{",
 			"}"
 		],
