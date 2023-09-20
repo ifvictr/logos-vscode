@@ -12,10 +12,6 @@
 			"%end"
 		],
 		[
-			"%hookf",
-			"%end"
-		],
-		[
 			"%group",
 			"%end"
 		],
@@ -35,10 +31,6 @@
 	"autoClosingPairs": [
 		[
 			"%hook",
-			"%end"
-		],
-		[
-			"%hookf",
 			"%end"
 		],
 		[
@@ -90,7 +82,7 @@
 	],
 	"folding": {
 		"markers": {
-			"start": "%hook|%hookf|%group*(.*)",
+			"start": "%hook|%group*(.*)",
 			"end": "%end"
 		}
 	}
